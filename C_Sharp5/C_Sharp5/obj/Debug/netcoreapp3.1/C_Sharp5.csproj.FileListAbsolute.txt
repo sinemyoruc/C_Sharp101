@@ -1,0 +1,13 @@
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\bin\Debug\netcoreapp3.1\C_Sharp5.exe
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\bin\Debug\netcoreapp3.1\C_Sharp5.deps.json
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\bin\Debug\netcoreapp3.1\C_Sharp5.runtimeconfig.json
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\bin\Debug\netcoreapp3.1\C_Sharp5.runtimeconfig.dev.json
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\bin\Debug\netcoreapp3.1\C_Sharp5.dll
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\bin\Debug\netcoreapp3.1\C_Sharp5.pdb
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\obj\Debug\netcoreapp3.1\C_Sharp5.csprojAssemblyReference.cache
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\obj\Debug\netcoreapp3.1\C_Sharp5.AssemblyInfoInputs.cache
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\obj\Debug\netcoreapp3.1\C_Sharp5.AssemblyInfo.cs
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\obj\Debug\netcoreapp3.1\C_Sharp5.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\obj\Debug\netcoreapp3.1\C_Sharp5.dll
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\obj\Debug\netcoreapp3.1\C_Sharp5.pdb
+C:\Users\sinem\source\repos\C_Sharp5\C_Sharp5\obj\Debug\netcoreapp3.1\C_Sharp5.genruntimeconfig.cache

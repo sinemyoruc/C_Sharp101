@@ -1,0 +1,13 @@
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\bin\Debug\netcoreapp3.1\C_Sharp2.exe
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\bin\Debug\netcoreapp3.1\C_Sharp2.deps.json
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\bin\Debug\netcoreapp3.1\C_Sharp2.runtimeconfig.json
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\bin\Debug\netcoreapp3.1\C_Sharp2.runtimeconfig.dev.json
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\bin\Debug\netcoreapp3.1\C_Sharp2.dll
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\bin\Debug\netcoreapp3.1\C_Sharp2.pdb
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\obj\Debug\netcoreapp3.1\C_Sharp2.csprojAssemblyReference.cache
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\obj\Debug\netcoreapp3.1\C_Sharp2.AssemblyInfoInputs.cache
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\obj\Debug\netcoreapp3.1\C_Sharp2.AssemblyInfo.cs
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\obj\Debug\netcoreapp3.1\C_Sharp2.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\obj\Debug\netcoreapp3.1\C_Sharp2.dll
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\obj\Debug\netcoreapp3.1\C_Sharp2.pdb
+C:\Users\sinem\source\repos\C_Sharp2\C_Sharp2\obj\Debug\netcoreapp3.1\C_Sharp2.genruntimeconfig.cache

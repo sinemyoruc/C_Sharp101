@@ -1,0 +1,13 @@
+C:\Users\sinem\source\repos\ODEV1\ODEV1\bin\Debug\netcoreapp3.1\ODEV1.exe
+C:\Users\sinem\source\repos\ODEV1\ODEV1\bin\Debug\netcoreapp3.1\ODEV1.deps.json
+C:\Users\sinem\source\repos\ODEV1\ODEV1\bin\Debug\netcoreapp3.1\ODEV1.runtimeconfig.json
+C:\Users\sinem\source\repos\ODEV1\ODEV1\bin\Debug\netcoreapp3.1\ODEV1.runtimeconfig.dev.json
+C:\Users\sinem\source\repos\ODEV1\ODEV1\bin\Debug\netcoreapp3.1\ODEV1.dll
+C:\Users\sinem\source\repos\ODEV1\ODEV1\bin\Debug\netcoreapp3.1\ODEV1.pdb
+C:\Users\sinem\source\repos\ODEV1\ODEV1\obj\Debug\netcoreapp3.1\ODEV1.csprojAssemblyReference.cache
+C:\Users\sinem\source\repos\ODEV1\ODEV1\obj\Debug\netcoreapp3.1\ODEV1.AssemblyInfoInputs.cache
+C:\Users\sinem\source\repos\ODEV1\ODEV1\obj\Debug\netcoreapp3.1\ODEV1.AssemblyInfo.cs
+C:\Users\sinem\source\repos\ODEV1\ODEV1\obj\Debug\netcoreapp3.1\ODEV1.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\ODEV1\ODEV1\obj\Debug\netcoreapp3.1\ODEV1.dll
+C:\Users\sinem\source\repos\ODEV1\ODEV1\obj\Debug\netcoreapp3.1\ODEV1.pdb
+C:\Users\sinem\source\repos\ODEV1\ODEV1\obj\Debug\netcoreapp3.1\ODEV1.genruntimeconfig.cache

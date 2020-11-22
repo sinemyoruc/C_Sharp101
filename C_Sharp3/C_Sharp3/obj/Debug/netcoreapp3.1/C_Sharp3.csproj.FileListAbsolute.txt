@@ -1,0 +1,13 @@
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\obj\Debug\netcoreapp3.1\C_Sharp3.csprojAssemblyReference.cache
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\obj\Debug\netcoreapp3.1\C_Sharp3.AssemblyInfoInputs.cache
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\obj\Debug\netcoreapp3.1\C_Sharp3.AssemblyInfo.cs
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\obj\Debug\netcoreapp3.1\C_Sharp3.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\bin\Debug\netcoreapp3.1\C_Sharp3.exe
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\bin\Debug\netcoreapp3.1\C_Sharp3.deps.json
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\bin\Debug\netcoreapp3.1\C_Sharp3.runtimeconfig.json
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\bin\Debug\netcoreapp3.1\C_Sharp3.runtimeconfig.dev.json
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\bin\Debug\netcoreapp3.1\C_Sharp3.dll
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\bin\Debug\netcoreapp3.1\C_Sharp3.pdb
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\obj\Debug\netcoreapp3.1\C_Sharp3.dll
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\obj\Debug\netcoreapp3.1\C_Sharp3.pdb
+C:\Users\sinem\source\repos\C_Sharp3\C_Sharp3\obj\Debug\netcoreapp3.1\C_Sharp3.genruntimeconfig.cache

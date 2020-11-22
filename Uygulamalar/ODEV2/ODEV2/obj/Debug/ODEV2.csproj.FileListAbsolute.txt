@@ -1,0 +1,10 @@
+C:\Users\sinem\source\repos\ODEV2\ODEV2\bin\Debug\ODEV2.exe.config
+C:\Users\sinem\source\repos\ODEV2\ODEV2\bin\Debug\ODEV2.exe
+C:\Users\sinem\source\repos\ODEV2\ODEV2\bin\Debug\ODEV2.pdb
+C:\Users\sinem\source\repos\ODEV2\ODEV2\obj\Debug\ODEV2.csprojAssemblyReference.cache
+C:\Users\sinem\source\repos\ODEV2\ODEV2\obj\Debug\ODEV2.Form1.resources
+C:\Users\sinem\source\repos\ODEV2\ODEV2\obj\Debug\ODEV2.Properties.Resources.resources
+C:\Users\sinem\source\repos\ODEV2\ODEV2\obj\Debug\ODEV2.csproj.GenerateResource.cache
+C:\Users\sinem\source\repos\ODEV2\ODEV2\obj\Debug\ODEV2.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\ODEV2\ODEV2\obj\Debug\ODEV2.exe
+C:\Users\sinem\source\repos\ODEV2\ODEV2\obj\Debug\ODEV2.pdb

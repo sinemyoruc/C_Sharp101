@@ -1,0 +1,13 @@
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\bin\Debug\netcoreapp3.1\C_Sharp.exe
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\bin\Debug\netcoreapp3.1\C_Sharp.deps.json
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\bin\Debug\netcoreapp3.1\C_Sharp.runtimeconfig.json
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\bin\Debug\netcoreapp3.1\C_Sharp.runtimeconfig.dev.json
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\bin\Debug\netcoreapp3.1\C_Sharp.dll
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\bin\Debug\netcoreapp3.1\C_Sharp.pdb
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\obj\Debug\netcoreapp3.1\C_Sharp.csprojAssemblyReference.cache
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\obj\Debug\netcoreapp3.1\C_Sharp.AssemblyInfoInputs.cache
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\obj\Debug\netcoreapp3.1\C_Sharp.AssemblyInfo.cs
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\obj\Debug\netcoreapp3.1\C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\obj\Debug\netcoreapp3.1\C_Sharp.dll
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\obj\Debug\netcoreapp3.1\C_Sharp.pdb
+C:\Users\sinem\source\repos\C_Sharp\C_Sharp\obj\Debug\netcoreapp3.1\C_Sharp.genruntimeconfig.cache
